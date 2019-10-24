@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my NetSec Blog
 
-You can use the [editor on GitHub](https://github.com/kozenio/kozenio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I've been meaning to create one for a while to assist me in my studies, and for the longest time thought I would have to spend money on it. Luckily, GitHub pages came to my rescue!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Throughout this blog there will be the semi-coherent ramblings of a Cyber Operations student attempting to continue his education inside and outside of school. Be patient with my markdown skills, as I'm just getting used to all of this!
 
-### Markdown
+### What I've been doing recently, and will continue to do in the future
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You should expect some pretty consistent things being posted here, as I'll probably be uploading helpful assignments, labs, and more as I run across them. I'll attempt to include in-depth explanations with as much as possible, but sometimes all that'll pop up will be a study guide with a course number. On the otherhand though, there might be a full write up on a compromised virtual machine... who knows!
 
-```markdown
-Syntax highlighted code block
+Here is a quick list of some of the things I am most likely going to be writing about and continuing to learn about:
+- Basic IT Infrastructure
+- Network Security
+- Vulnerable Machine Walkthroughs
+- Software/Hardware Setup Discussions
+- And anything else NetSec or Tech that may be of interest
 
-# Header 1
-## Header 2
-### Header 3
+I hope someone finds this useful at least, like I have found so many others!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kozenio/kozenio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-Evan
